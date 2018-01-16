@@ -1,4 +1,4 @@
-# conapoMX
+# conapomx
 [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/conapoMX)](http://cran.r-project.org/package=conapoMX) ![downloads](http://cranlogs.r-pkg.org/badges/grand-total/conapoMX)
 
 ## Description
