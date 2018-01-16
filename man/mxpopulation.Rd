@@ -11,8 +11,8 @@
   \item{id_st}{state id, as defined by INEGI}
   \item{mun}{municipio, in full name}
   \item{id_mun}{municipio id, as defined by INEGI}
-  \item{cvegeo}{geographic id, defined as state id plus municipio id}
-  \item{gender}{gender}
+  \item{geoid}{geographic id, defined as state id plus municipio id}
+  \item{gender}{gender. Cero for males, one for females}
   \item{age}{age group}
   \item{population}{population}
 }}
@@ -23,7 +23,7 @@ Consejo Nacional de Poblacion. Accesed Jan 2018.
 mxpopulation
 }
 \description{
-A dataset population estimates by municipality level in Mexico. Public data from CONAPO.
+A dataset of population estimates by municipality level in Mexico. Public data from CONAPO.
 Obtained Jan-15-2018, special characters overwritten for compatibility.
 }
 \keyword{datasets}
